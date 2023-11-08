@@ -5,13 +5,10 @@
 ## Contact Information:
 
 **Phone:** +48 510 412 644
-
 **E-mail:** chekhanadski@gmail.com
-
 **Telegram:** @Chekhanadski
-
+**Discord:** chekhanadski
 [**LinkedIn**](https://www.linkedin.com/in/chekhanadski/)
-
 [**Github**](https://github.com/Chekhanadski)
 
 ## Briefly About Myself:
@@ -45,13 +42,20 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
   }
   ```
 
-  ## Courses:
+  ## Experience
+
+    - **React Project:** 
+      - [App "Restaurants Food and Drinks"](https://github.com/Chekhanadski/Delivery_app_react)
+      - [App "ToDoList"]()
+    - **Javascript Project:** [App Restaurant "Bangkok Express"](https://github.com/Chekhanadski/Restaurant_app_JavaScript)
+    - **HTML/CSS Project:** [Web Site "Czestochowa"](https://github.com/Chekhanadski/Czestochowa_website_HTML-CSS)
+
+  ## Education:
 
     - **REACT COURSES:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
-
     - **JAVASCRIPT COURSES:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
-
     - **RS Schools Course** «JavaScript/Front-end. Stage 1» (in progress)
+    - **MASTER'S DEGREE:** Belarusian State Technological University
 
   ## Languages:
 
