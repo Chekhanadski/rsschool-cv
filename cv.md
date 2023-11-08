@@ -1,4 +1,5 @@
-# Andrei Chekhanadski 
+# Andrei Chekhanadski
+
 ![My photo](/photo/rss-cv-photo_100x120.jpg)
 
 ## Junior Frontend Developer
@@ -60,7 +61,7 @@ function domainName(url) {
 
 ## Languages:
 
-- **English** - Pre-Intermediate _(I study with a tutor twice a week on the preplay platform)_
+- **English** - Pre-Intermediate _(I study with a tutor twice a week on the Preplay platform)_
 - **Belarusian** - Native
 - **Russian** - Native
 - **Polish** - Basic
