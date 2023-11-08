@@ -63,7 +63,7 @@ function domainName(url) {
 
 ## Languages:
 
-- **English** - Pre-Intermediate _(I study with a tutor twice a week on the Preplay platform)_
+- **English** - Pre-Intermediate _(I study with a tutor twice a week on the Preply platform)_
 - **Belarusian** - Native
 - **Russian** - Native
 - **Polish** - Basic
