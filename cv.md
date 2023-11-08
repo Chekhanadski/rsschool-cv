@@ -47,9 +47,16 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 
   ## Courses:
 
-    - REACT COURSES: [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
+    - **REACT COURSES:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
 
-    - JAVASCRIPT COURSES: [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
+    - **JAVASCRIPT COURSES:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
 
-    - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+    - **RS Schools Course** «JavaScript/Front-end. Stage 1» (in progress)
+
+  ## Languages:
+
+    - **English** - Pre-Intermediate
+    - **Belarusian** - Native
+    - **Russian** - Native
+    - **Polish** - Basic
 
