@@ -1,4 +1,4 @@
-# Andrei Chekhanadski ![My photo](/photo/rss-cv-photo_100x120.jpg)
+# ![My photo](/photo/rss-cv-photo_100x120.jpg) Andrei Chekhanadski 
 
 ## Junior Frontend Developer
 
