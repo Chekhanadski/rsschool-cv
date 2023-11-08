@@ -56,9 +56,9 @@ function domainName(url) {
 
 ## Education:
 
-- **React courses:** [learn.javascript.ru](https://learn.javascript.ru/courses/react) _(completed)_
-- **JavaScript courses:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) _(completed)_
-- **RS Schools Course** «JavaScript/Front-end. Stage 1» _(in progress)_
+- **React course:** [learn.javascript.ru](https://learn.javascript.ru/courses/react) _(completed)_
+- **JavaScript course:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) _(completed)_
+- **RS Schools Course** [«JavaScript/Front-end. Stage 1»](https://rs.school/js/) _(in progress)_
 - **MASTER'S DEGREE:** Belarusian State Technological University
 
 ## Languages:
