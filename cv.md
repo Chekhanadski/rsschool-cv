@@ -9,7 +9,7 @@
 **Telegram:** @Chekhanadski\
 **Discord:** chekhanadski\
 [**LinkedIn**](https://www.linkedin.com/in/chekhanadski/)\
-[**Github**](https://github.com/Chekhanadski)\
+[**Github**](https://github.com/Chekhanadski)
 
 ## Briefly About Myself:
 
@@ -28,32 +28,32 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 
 ## Code Example:
 
-  **Extract the domain name from a URL. KATA from CODEWARS:** *Write a function that when given a URL as a string, parses out just the domain name and returns it as a string.*
+**KATA from CODEWARS: Extract the domain name from a URL.** _Write a function that when given a URL as a string, parses out just the domain name and returns it as a string._
 
-  ```
-  function domainName(url) {
-    const urlWithoutProtocol = url
-      .replace("https://", "")
-      .replace("http://", "")
-      .replace("www.", "");
+```
+function domainName(url) {
+  const urlWithoutProtocol = url
+    .replace("https://", "")
+    .replace("http://", "")
+    .replace("www.", "");
 
-    const indexFirstPoint = urlWithoutProtocol.indexOf(".");
-    return urlWithoutProtocol.slice(0, indexFirstPoint);
-  }
-  ```
+  const indexFirstPoint = urlWithoutProtocol.indexOf(".");
+  return urlWithoutProtocol.slice(0, indexFirstPoint);
+}
+```
 
 ## Experience
 
-- **React Project:** 
-  - [App "Restaurants Food and Drinks"](https://github.com/Chekhanadski/Delivery_app_react) (React, Next.js, React Hooks, Redux, Redux Thunk, Redux Toolkit, Async Thunk, Fetch, SSR)
-  - [App "Project ToDoList"](https://github.com/Chekhanadski/Project_ToDoList) (React, React Hooks, Fetch, localStorage, Firebase)
-- **Javascript Project:** [App Restaurant "Bangkok Express"] (https://github.com/Chekhanadski/Restaurant_app_JavaScript)(JavaScript, DOM, Fetch, JSON, Async/await, callback, SPA, drag'n'drop, Responsive Web Designs)
-- **HTML/CSS Project:** [Web Site "Czestochowa"](https://github.com/Chekhanadski/Czestochowa_website_HTML-CSS) (Responsive Web Designs)
+- **React Project:**
+  - [App "Restaurants Food and Drinks"](https://github.com/Chekhanadski/Delivery_app_react) _(React, Next.js, React Hooks, Redux, Redux Thunk, Redux Toolkit, Async Thunk, Fetch, SSR)_
+  - [App "Project ToDoList"](https://github.com/Chekhanadski/Project_ToDoList) _(React, React Hooks, Fetch, localStorage, Firebase)_
+- **Javascript Project:** [App Restaurant "Bangkok Express"] (https://github.com/Chekhanadski/Restaurant_app_JavaScript) _(JavaScript, DOM, Fetch, JSON, Async/await, callback, SPA, drag'n'drop, Responsive Web Designs)_
+- **HTML/CSS Project:** [Web Site "Czestochowa"](https://github.com/Chekhanadski/Czestochowa_website_HTML-CSS) _(Responsive Web Designs)_
 
 ## Education:
 
-- **React courses:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
-- **JavaScript courses:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
+- **React courses:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) _(completed)_
+- **JavaScript courses:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) _(completed)_
 - **RS Schools Course** «JavaScript/Front-end. Stage 1» (in progress)
 - **MASTER'S DEGREE:** Belarusian State Technological University
 
@@ -63,4 +63,3 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 - **Belarusian** - Native
 - **Russian** - Native
 - **Polish** - Basic
-
