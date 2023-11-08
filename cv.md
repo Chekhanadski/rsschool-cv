@@ -49,9 +49,9 @@ function domainName(url) {
 - **React Project:**
   - [App "Restaurants Food and Drinks"](https://github.com/Chekhanadski/Delivery_app_react) _(React, Next.js, React Hooks, Redux, Redux Thunk, Redux Toolkit, Async Thunk, Fetch, SSR)_
   - [App "Project ToDoList"](https://github.com/Chekhanadski/Project_ToDoList) _(React, React Hooks, Fetch, localStorage, Firebase)_
-- **JavaScript Project:** 
+- **JavaScript Project:**
   - [App Restaurant "Bangkok Express"](https://github.com/Chekhanadski/Restaurant_app_JavaScript) _(JavaScript, DOM, Fetch, JSON, Async/await, callback, SPA, drag'n'drop, Responsive Web Designs)_
-- **HTML/CSS Project:** 
+- **HTML/CSS Project:**
   - [Web Site "Czestochowa"](https://github.com/Chekhanadski/Czestochowa_website_HTML-CSS) _(Responsive Web Designs)_
 
 ## Education:
