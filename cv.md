@@ -1,7 +1,7 @@
 # Andrei Chekhanadski
----
+
 ## Junior Frontend Developer
----
+
 ## Contact information:
 
    Phone: +48 510 412 644
@@ -10,7 +10,7 @@
 
    Telegram: @Chekhanadski
 
-   [LinkedIn][https://www.linkedin.com/in/chekhanadski/]
+   [LinkedIn](https://www.linkedin.com/in/chekhanadski/)
 
-   [Github][https://github.com/Chekhanadski]
+   [Github](https://github.com/Chekhanadski)
 ---
