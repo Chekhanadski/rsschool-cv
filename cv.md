@@ -1,5 +1,4 @@
-# Andrei Chekhanadski 
-![My photo](/photo/rss-cv.jpg){width=50 height=60}
+# Andrei Chekhanadski ![My photo](/photo/rss-cv-photo_100x120.jpg)
 
 ## Junior Frontend Developer
 
