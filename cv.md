@@ -4,12 +4,12 @@
 
 ## Contact Information:
 
-**Phone:** +48 510 412 644
-**E-mail:** chekhanadski@gmail.com
-**Telegram:** @Chekhanadski
-**Discord:** chekhanadski
-[**LinkedIn**](https://www.linkedin.com/in/chekhanadski/)
-[**Github**](https://github.com/Chekhanadski)
+**Phone:** +48 510 412 644\
+**E-mail:** chekhanadski@gmail.com\
+**Telegram:** @Chekhanadski\
+**Discord:** chekhanadski\
+[**LinkedIn**](https://www.linkedin.com/in/chekhanadski/)\
+[**Github**](https://github.com/Chekhanadski)\
 
 ## Briefly About Myself:
 
@@ -28,7 +28,7 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 
 ## Code Example:
 
-  **Extract the domain name from a URL KATA from CODEWARS:** *Write a function that when given a URL as a string, parses out just the domain name and returns it as a string.*
+  **Extract the domain name from a URL. KATA from CODEWARS:** *Write a function that when given a URL as a string, parses out just the domain name and returns it as a string.*
 
   ```
   function domainName(url) {
@@ -45,15 +45,15 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 ## Experience
 
 - **React Project:** 
-  - [App "Restaurants Food and Drinks"](https://github.com/Chekhanadski/Delivery_app_react)(React, Next.js, React Hooks, Redux, Redux Thunk, Redux Toolkit, Async Thunk, Fetch, SSR)
-  - [App "Project ToDoList"](https://github.com/Chekhanadski/Project_ToDoList)(React, React Hooks, Fetch, localStorage, Firebase)
-- **Javascript Project:** [App Restaurant "Bangkok Express"](https://github.com/Chekhanadski/Restaurant_app_JavaScript)(JavaScript, DOM, Fetch, JSON, Async/await, callback, SPA, drag'n'drop, Responsive Web Designs)
-- **HTML/CSS Project:** [Web Site "Czestochowa"](https://github.com/Chekhanadski/Czestochowa_website_HTML-CSS)
+  - [App "Restaurants Food and Drinks"](https://github.com/Chekhanadski/Delivery_app_react) (React, Next.js, React Hooks, Redux, Redux Thunk, Redux Toolkit, Async Thunk, Fetch, SSR)
+  - [App "Project ToDoList"](https://github.com/Chekhanadski/Project_ToDoList) (React, React Hooks, Fetch, localStorage, Firebase)
+- **Javascript Project:** [App Restaurant "Bangkok Express"] (https://github.com/Chekhanadski/Restaurant_app_JavaScript)(JavaScript, DOM, Fetch, JSON, Async/await, callback, SPA, drag'n'drop, Responsive Web Designs)
+- **HTML/CSS Project:** [Web Site "Czestochowa"](https://github.com/Chekhanadski/Czestochowa_website_HTML-CSS) (Responsive Web Designs)
 
 ## Education:
 
-- **REACT COURSES:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
-- **JAVASCRIPT COURSES:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
+- **React courses:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
+- **JavaScript courses:** [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
 - **RS Schools Course** «JavaScript/Front-end. Stage 1» (in progress)
 - **MASTER'S DEGREE:** Belarusian State Technological University
 
