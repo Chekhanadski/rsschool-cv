@@ -31,6 +31,8 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
 
 ## Code Example:
 
+  **Extract the domain name from a URL KATA from CODEWARS:** *Write a function that when given a URL as a string, parses out just the domain name and returns it as a string.*
+
   ```
   function domainName(url) {
     const urlWithoutProtocol = url
@@ -42,3 +44,12 @@ As an aspiring front-end developer, I am passionate about creating beautiful and
     return urlWithoutProtocol.slice(0, indexFirstPoint);
   }
   ```
+
+  ## Courses:
+
+    - REACT COURSES: [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
+
+    - JAVASCRIPT COURSES: [learn.javascript.ru](https://learn.javascript.ru/courses/jsbasic) (completed)
+
+    - RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
