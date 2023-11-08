@@ -1,4 +1,5 @@
-# Andrei Chekhanadski ![Chekhanadski Andrei](https://photos.app.goo.gl/Ng4kU8q8amzQvxM29)
+# Andrei Chekhanadski 
+![](/photo/rss-cv.jpg)
 
 ## Junior Frontend Developer
 
